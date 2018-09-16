@@ -6,6 +6,10 @@ It gives you the possibility to interact quickly and easily with your account or
 
 This app offers you one of the safest ways to protect your private data.
 
+[<img src="https://f-droid.org/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="90">](https://f-droid.org/packages/com.eletac.tronwallet/)
+
 # Features
   - **Create Wallet**
     - encrypts private information with a password
